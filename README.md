@@ -13,7 +13,7 @@ Spawn - actor dropdown menu that allows you to select any actor to spawn other t
 
 Spawn Count - an int value that determines how many trees to spawn.
 
-Initial Spawn Delay - sawning all the trees right at the start of the application caused a hang-up, so a small delay was added (measured in seconds).
+Initial Spawn Delay - spawning all the trees right at the start of the application caused a hang-up, so a small delay was added (measured in seconds).
 
 Spawn Delay - the time between spawning trees. Added for optimization; instead of spawning large numbers all at once, a slight delay relieves a bit of the processing stress.
 
